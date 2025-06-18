@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 
