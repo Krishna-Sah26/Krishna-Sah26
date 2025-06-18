@@ -28,8 +28,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-Krishna-sah26&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Krishna-Sah26&layout=compact)
+## 📊 GitHub Stats:
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-Sah26&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Sah26&layout=compact&theme=radical)
+
 
 ---
 
