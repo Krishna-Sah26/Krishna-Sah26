@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Krishna-Sah26/Krishna-Sah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Krishna Kumar Sah!
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student | 🌱 Learning Web Development  
+💻 I love coding and exploring tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Learning:
+- HTML, CSS (Beginner)
+- Python, C++
+- Currently exploring JavaScript & GitHub
+
+### 📈 My Goals:
+- Build web projects
+- Learn JavaScript frameworks
+- Become a full-stack developer
+
+### 📬 Connect With Me:
+[LinkedIn](https://www.linkedin.com/Krishna Kumar Sah) | [Instagram](https://instagram.com) | [GitHub](https://github.com/KrishnaKumarSah)
+
+> “Dream big. Start small. But most of all, start.” – Simon Sinek
