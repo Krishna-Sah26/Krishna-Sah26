@@ -22,7 +22,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-krishna_raj_232)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:Sahkrishna2026@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord)](https://discord.com/)
 
+---
 ---
 
 ## 📊 GitHub Stats:
