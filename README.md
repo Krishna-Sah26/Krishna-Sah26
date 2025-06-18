@@ -12,12 +12,15 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
 
 ---
 
 ## 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-username)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-krishna_raj_232)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:Sahkrishna2026@gmail.com)
 
 ---
