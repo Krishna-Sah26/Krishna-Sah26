@@ -16,15 +16,15 @@
 ---
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/Krishna Kumar Sah)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-username)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:Sahkrishna2026@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats:
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-Krishna-sah26&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Krishna-Sah26&layout=compact)
 
 ---
 
