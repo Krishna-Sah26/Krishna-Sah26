@@ -94,25 +94,6 @@ Git • GitHub • VS Code • Postman • Figma
 
 🏠 Room Rental & Roommate Finder Platform
 
----
-
-🎥 KrishnaTube
-
-Video Sharing Platform
-
----
-
-🍔 FoodExpress
-
-Food Delivery Website
-
----
-
-📁 File Converter
-
-Convert PDF, Excel, Word, Images etc.
-
----
 
 # 📊 GitHub Stats
 
@@ -124,11 +105,6 @@ Convert PDF, Excel, Word, Images etc.
 
 ---
 
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=krishna-sah26&theme=tokyo-night)
-
----
 
 # 🏆 GitHub Trophies
 
@@ -138,11 +114,8 @@ Convert PDF, Excel, Word, Images etc.
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](YOUR_LINK)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-kumar-sah-13a644332/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYequOvSGR5GVrkl%2FcjQsGw%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:Krishnashah071071@gmail.com)
 
 ---
 
