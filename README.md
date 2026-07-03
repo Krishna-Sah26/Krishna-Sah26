@@ -106,11 +106,6 @@ Git • GitHub • VS Code • Postman • Figma
 ---
 
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=krishna-sah26&theme=tokyonight&margin-w=15)
-
----
 
 # 🌐 Connect With Me
 
